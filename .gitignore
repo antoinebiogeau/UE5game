@@ -1,0 +1,28 @@
+# Unreal Engine 5
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
+*.sln
+*.suo
+*.xcworkspace
+*.xcodeproj
+*.db
+*.sqlite3
+*.apk
+*.ap_
+*.so
+*.dll
+*.dylib
+*.pdb
+*.ipa
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
